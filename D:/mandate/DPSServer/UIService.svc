@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="Gss.DPS.FX.Server.Services.UIService" CodeBehind="Gss.DPS.FX.Server.Services.UIService.vb" %>
