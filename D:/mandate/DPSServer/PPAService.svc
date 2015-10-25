@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="Gss.DPS.PPA.Server.Services.PPAService" CodeBehind="Gss.DPS.PPA.Server.Services.PPAService.vb" %>
