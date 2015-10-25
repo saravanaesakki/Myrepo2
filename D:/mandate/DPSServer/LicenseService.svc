@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="VB" Debug="true" Service="Gss.DPS.FX.License.Server.Services.LicenseService" CodeBehind="Gss.DPS.FX.License.Server.Services.LicenseService.vb" %>
